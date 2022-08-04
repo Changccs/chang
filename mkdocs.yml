@@ -1,4 +1,52 @@
-site_name: My Docs
+site_name: 杏子扑簌簌
+site_url: https://anzai.link
+site_dir: /home/chang/mkdocs_site
+
+nav:
+  - 😃 欢迎: 'index.md'
+  - 📝 杂记: 'notes'
+  - 🍚 食谱: 'recipes'
+  - 💌 期刊信: 'newsletters'
+  - 🔖 标签儿: 'tags.md'
 
 theme:
-  name: material
+            name: material
+            custom_dir: overrides
+            palette:
+                scheme: default
+                primary: deep purple
+            logo: assets/logo.png
+            favicon: assets/favicon32.ico
+            features:
+                - navigation.top
+                - navigation.sections
+                - toc.integrate
+
+plugins:
+    - tags:
+            tags_file: tags.md   
+    - include_dir_to_nav:
+            flat: false
+    #- search:
+    #    lang: jp
+    #    separator: '[\s\u200b\-]'
+        
+markdown_extensions:
+    - meta
+    - abbr
+    - admonition
+    - def_list
+    - attr_list
+    - footnotes
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.tasklist:
+                  custom_checkbox: true
+
+extra_css:
+    - stylesheets/extra.css
+
+
+
