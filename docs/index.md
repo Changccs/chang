@@ -1,19 +1,29 @@
-# Welcome to MkDocs
+# 欢迎~ 😃
 
-Hello!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+!!! success "最近更新"   
+    08/03  [**写给我的大儿子 - 跟儿子吵架有感。。。**](./notes/20220803.md)   
+    07/23^大暑^ [**2# 做饭这件“小事”**](./newsletters/20220723L2.md)   
+    07/07^小暑^ [**1# 是什么促使我开始做生活记录**](./newsletters/20220707L1.md) 
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+这里是[**杏子扑簌簌**](./notes/20220615.md)的大本营，记录生活点滴及些许个人感悟（或，生命中的杏子）等，这里以简洁清晰、归档完备为原则。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+左上角可以看到一个“三”状符号，点击后会出现一个列表，是计划存放的三个分类 ：
+
+- **杂记**：记录生活中的发生，包括各种经验、想法、笔记等。
+- **食谱**：做饭是每天的功课，这里记录一个普通做饭人亲手验证过、具备日常可操作性、会反复使用的食谱，其实也是想给娃们留下一份“家的味道”操作手册，万一哪天他们用得上呢。
+- **期刊信**：跟着二十四节气，每半月做一次探究和回顾整理。每期探究一个主题，另附一些较为固定的小专栏，是我正在关心或希望自己多加关心的事。 你也可以通过[**竹白-杏子扑簌簌**](https://xingzipss.zhubai.love)订阅这部分内容
+
+---
+
+关于**信**，非常有意思的是：前一周，大儿在我的小学纪念册上发现了大学时期的我写给自己的两份留言，看过之后还是有点感触的。在时隔二十年的今天，我在这个本子上写了第三封信。这个小本子还有挺多空白页，十年写一次我想还是够用的，很好奇下一个空白页将会被填上些什么。
+
+如果说十年笔记页对应着人生数轴上的各个节点，那这里的点滴，会勾勒出节点之间的那道“线”。
+
+就这样，开始吧\~\~
+
+---
+2022/7/2 
