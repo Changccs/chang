@@ -1,6 +1,4 @@
 site_name: 杏子扑簌簌
-site_url: https://anzai.link
-site_dir: /home/chang/mkdocs_site
 
 nav:
   - 😃 欢迎: 'index.md'
