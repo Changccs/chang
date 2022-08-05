@@ -25,8 +25,8 @@ theme:
 plugins:
     - tags:
             tags_file: tags.md   
-            #    - include_dir_to_nav:
-            #            flat: false
+#    - include_dir_to_nav:
+#            flat: false
     #- search:
     #    lang: jp
     #    separator: '[\s\u200b\-]'
